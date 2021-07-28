@@ -1,5 +1,7 @@
 ## Corresponding Projects
 
+[![wakatime](https://wakatime.com/badge/github/gabrieltreib/react-advanced.svg)](https://wakatime.com/badge/github/gabrieltreib/react-advanced)
+
 #### useState
 
 1. Birthday Reminder
